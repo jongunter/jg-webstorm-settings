@@ -1,0 +1,9 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="c" />
+      </set>
+    </option>
+  </component>
+</application>
