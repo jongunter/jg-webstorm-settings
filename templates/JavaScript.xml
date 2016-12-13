@@ -1,5 +1,11 @@
 <templateSet group="JavaScript">
-  <template name="cl" value="console.log($END$)" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$)" description="Inserts console.log()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="afunc" value="()=&gt; { $END$ }" description="Insert arrow function" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
