@@ -2,6 +2,7 @@
   <option name="HTML_ATTRIBUTE_WRAP" value="2" />
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
   <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
